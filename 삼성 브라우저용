@@ -1,0 +1,33 @@
+[웹툰]
+
+늑대 
+##.banner-inner
+###vimg-area > center:last-child
+
+짭툰 
+##div[data-testid="advertisement-grid"]
+
+쵸파툰 
+##.basic-banner-4.row-10
+##.basic-banner-s1
+##.basic-banner-2
+
+[일본 만화]
+
+일일툰
+##.topBanner
+##.info
+##span#adssmall3
+##.viewer-list, .scroll-control, .idle
+
+애니라이프 
+##div.grid:has(> div[aria-label^="Advertisement banner"])
+
+애니 24
+##.ad-list
+
+[OTT]
+
+티비위키 
+##.banner2
+###bo_v > ul:nth-child(2)
