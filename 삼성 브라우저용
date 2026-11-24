@@ -4,13 +4,11 @@
 ##.banner-inner
 ###vimg-area > center:last-child
 
-짭툰 
-##div[data-testid="advertisement-grid"]
-
-쵸파툰 
-##.basic-banner-4.row-10
-##.basic-banner-s1
-##.basic-banner-2
+툰코
+##section.top_banner
+##.main_top_bann
+##.bn, .bnt
+##a[href*="bet0zp0vsrwtly57fyhk.com"]
 
 [일본 만화]
 
@@ -19,9 +17,6 @@
 ##.info
 ##span#adssmall3
 ##.viewer-list, .scroll-control, .idle
-
-애니라이프 
-##div.grid:has(> div[aria-label^="Advertisement banner"])
 
 애니 24
 ##.ad-list
